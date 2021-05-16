@@ -12,6 +12,11 @@ MyTour is a geographic information system (GIS) written in C++ capable of displa
 Users can zoom and move the map. More details are shown at higher zoom levels (small streets, building silouhettes, etc) to improve performance and usability.  
 ![MyTour](demo/zoom_move.gif)
 
+### Dark Mode
+For night time driver's, dark mode can be toggled on at any moment
+
+![MyTour](demo/darkmode.gif)
+
 ### Displaying Features
 Simple to use menu to filter and display information to the tourist's needs  
 
@@ -36,7 +41,3 @@ Streets and intersections can be found using the search bar. Furthermore, the sh
 #### Find paths by searching
 ![MyTour](demo/find_path_type.gif)
 
-### Dark Mode
-For night time driver's, dark mode can be toggled on at any moment
-
-![MyTour](demo/darkmode.gif)
